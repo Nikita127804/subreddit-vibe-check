@@ -2,7 +2,9 @@
 
 A modern, responsive React + Vite web application for real-time Reddit sentiment analysis and visual dashboard analytics.
 
-![The Subreddit Vibe Check](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
+🚀 **Live Application Demo**: [https://subreddit-vibe-check-theta.vercel.app](https://subreddit-vibe-check-theta.vercel.app)
+
+![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite)
 ![Sentiment Analysis](https://img.shields.io/badge/AFINN-165-emerald?style=flat-square)
 
